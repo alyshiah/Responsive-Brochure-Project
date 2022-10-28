@@ -1,6 +1,36 @@
+body {
+    margin: 0;
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 10%);
+    line-height: 1.5;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+  }
 h1{
-    color: green;
-    font-family: sans-serif;
+    color: rgb(0, 68, 128);
+  }
+
+  aside {
+    width: 40%;
+    padding-left: 15px;
+    margin-left: 15px;
+    display:inline;
+    float: right;
+    font-style: regular;
+    font-size: 14px; 
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+  }
+
+  span { 
+    background-color: rgb(0, 68, 128);
+    display: inline-block;
+    width:200px;
+    margin-block: 20px;
+    align-content: center;
+    padding-inline: 20,20px
+    border-radius
+
+
 
   }
 
