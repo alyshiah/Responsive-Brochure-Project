@@ -41,7 +41,7 @@ header{
     border-bottom: 3px solid rgb(247, 242, 249);
   }
 .banner{
-    flex:1;
+    width:100%;
     display:flex;
     align-items:center;
     justify-content:center;
